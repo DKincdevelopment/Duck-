@@ -1,0 +1,29 @@
+< :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::::: <>
+Duck++ or DK is a unique code structure. Here is an example of a DK debug structure below. 
+
+file = dk
+getService.dk; totalVAL:(N/A)
+D| 00 = (0)             N|
+D| 000 = (00)           N|
+D| 0000 = (000)         N|
+D| 00000 = (0000)       N|
+D| 000000 = (00000)     N|
+D| 0000000 = (000000)   N|                 
+--------------------------
+localValue.digits.add; (+)
+ getAwnser = true
+
+---------------------------
+|:::::::: KEY ::::::::::::|
+| D| = DK DIGIT                      
+| N| = NUM DIGIT                      
+| + =  ADD                        
+| - = SUBTRACT                        
+| (=) = EQUAL                        
+| "" = STRING
+| ;  = DK SEMICOLON
+| : = DK COLON
+
+--------------------------
+
+This might be different from the last file, recommended to use this.
