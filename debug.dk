@@ -1,0 +1,32 @@
+basic.dk
+
+getService;
+ 800 + 8 = )
+VAL: (808)
+getService(1.3) MB. end ) >::
+------------- > :::
+| 05  : VAL = (5) (+)
+| 050 : VAL = (50)(+)
+| 0500: VAL = (500)(+)
+| 05000: VAL = (5000)(+)
+| 050000: VAL = (50000)(+)
+| 0500000: VAL = (500000)(+)
+ <::: addClientValue ; sectionAbove: (11)          ::    
+::::::: > (getService; totalVAL: (555,555 VAL; ) :::: >
+--------------- end > ::::::::::::::::::::::::::::::: >
+  --------------------------------------------------- >
+print:(Hello World!) = true
+(end)
+
+{>} = barcodeEnd
+{+} = addClientValue
+{/} = divideClientValue
+{-} = subtractClientValue
+{=} = equalPunctuation
+{:} = barcodeColon                 :::::::::::: >}
+{;} = clientSemiColon            : 90000000:::: >}
+{.dk} = duck++; formatType)    :   00000009:::: >}
+
+
+          ---------- Duck++} end)
+:::::::::::478633<+> = >}
